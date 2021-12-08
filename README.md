@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img alt="badge" title="#badge" src="" />
+    <img alt="badge" title="#badge" src="./images/event_logo.png" width="250px;" />
 </h1>
 
 <h1 align="center">
@@ -29,9 +29,9 @@
  <a href="#about">About</a> •
  <a href="#features">Features</a> •
  <a href="#layout">Layout</a> • 
- <a href="#author">Author</a> • 
- <a href="#user-content-license">License</a>
-
+ <a href="#author">Author</a>
+<!--  <a href="#user-content-license">License</a>
+ -->
 </p>
 
 
@@ -39,18 +39,20 @@
 
 This is an event badge for mobile screen made with HTML, CSS and JavaScript.
 
+Link for the badge: https://naomy19.github.io/cracha_nlw/
+
 ---
 
 ## Features
 
-- [x] The badge gets user info from github profile page json.
+- [x] gets user info from github profile page JSON and shows in the badge
 
 ---
 
 ## Layout
 
 <p align="center">
-  <img alt="badge" title="#badge" src="" width="300px">
+  <img alt="badge" title="#badge" src="./images/badge_layout.png" width="300px">
 </p>
 
 ---
